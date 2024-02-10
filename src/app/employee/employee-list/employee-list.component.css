@@ -1,0 +1,23 @@
+.column-search {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  margin: 10px;
+  align-items: center;
+  justify-content: center
+}
+
+.btn-edit {
+  color: rgb(223, 223, 5);
+}
+
+.btn-delete {
+  color: red;
+}
+
+.btn-detail {
+  color: gray;
+}
